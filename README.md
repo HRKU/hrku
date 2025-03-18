@@ -35,8 +35,8 @@
 <a href="https://linkedin.com/in/hrishikesh-upadhyaya"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="mailto:chinum.upadhyaya@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://www.youtube.com/@hrishikeshupadhyaya7229"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white"></a>
-<a href="your-leetcode-profile-url"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"></a>
-<a href="your-resume-link"><img src="https://img.shields.io/badge/Resume-%23000000.svg?style=for-the-badge&logo=read-the-docs&logoColor=white"></a>
+<a href="https://leetcode.com/u/Hrishikesh_Upadhyaya/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"></a>
+<a href="https://docs.google.com/document/d/1MU4sYbpO18qFtaazy-YG5JZ-jcmrbN-_/edit?usp=sharing&ouid=107369587735854976213&rtpof=true&sd=true"><img src="https://img.shields.io/badge/Resume-%23000000.svg?style=for-the-badge&logo=read-the-docs&logoColor=white"></a>
 </p>
 
 # 💻 Tech Stack:
