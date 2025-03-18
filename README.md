@@ -1,14 +1,16 @@
+<div align="center" >
+
 # 🚀 Welcome to My GitHub!
 
-### Hi, I'm Hrishikesh Upadhyaya 👋
+## Hi, I'm Hrishikesh Upadhyaya 👋
 
-💻 **Full Stack Developer | React & Next.js Specialist | UI/UX Enthusiast**
+## 💻 **Full Stack Developer | React & Next.js Specialist | UI/UX Enthusiast**
 
 🔹 Passionate about **building scalable web applications**, optimizing performance, and creating seamless user experiences.  
 🔹 Currently **exploring cloud infrastructure, system design, and deployment strategies for real-world applications**.  
 🔹 A firm believer in **clean code, great design, and continuous learning**.
 
----
+</div>
 
 ## 🔍 About Me
 
@@ -27,12 +29,15 @@
 - **Flutter** (Building mobile applications 📱)
 - **Data Structures & Algorithms** (Practicing consistently on **LeetCode**)
 
-🔗 **Connect With Me:**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hrishikesh-upadhyaya) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chinum.upadhyaya@gmail.com) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@hrishikeshupadhyaya7229)
+## 🔗 Connect With Me
 
- <!-- [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](your-leetcode-profile-url) [![Resume](https://img.shields.io/badge/Resume-%23000000.svg?style=for-the-badge&logo=read-the-docs&logoColor=white)](your-resume-link) -->
-
----
+<p align="center">
+<a href="https://linkedin.com/in/hrishikesh-upadhyaya"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="mailto:chinum.upadhyaya@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://www.youtube.com/@hrishikeshupadhyaya7229"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white"></a>
+<a href="your-leetcode-profile-url"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"></a>
+<a href="your-resume-link"><img src="https://img.shields.io/badge/Resume-%23000000.svg?style=for-the-badge&logo=read-the-docs&logoColor=white"></a>
+</p>
 
 # 💻 Tech Stack:
 
