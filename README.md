@@ -1,5 +1,5 @@
 # 💫 About Me:
-Software Developer with exposure to Full Stack Tech. Actively exploring cloud technologies. Along with hands on experience as a figma designer<br>
+Hi, I'm Hrishikesh a Software developer with exposure to Full Stack Tech. Actively exploring cloud technologies. Along with hands on experience as a figma designer<br>
 
 
 ## 🌐 Socials:
