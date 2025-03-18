@@ -5,7 +5,7 @@
 💻 **Full Stack Developer | React & Next.js Specialist | UI/UX Enthusiast**
 
 🔹 Passionate about **building scalable web applications**, optimizing performance, and creating seamless user experiences.  
-🔹 Currently **exploring AWS, Java backend development, and advanced mobile development with Flutter & React Native**.  
+🔹 Currently **exploring cloud infrastructure, system design, and deployment strategies for real-world applications**.  
 🔹 A firm believer in **clean code, great design, and continuous learning**.
 
 ---
@@ -15,19 +15,22 @@
 🚀 **Currently Working As:**
 
 - **Full Stack Software Developer @ Candent Technologies Pvt Ltd**
-- Spearheading **React.js & Next.js** projects for fintech solutions
-- Managing **UI/UX designs using Figma**, collaborating closely with clients
-- Leading a team of developers to ensure **high-quality deliverables**
+- Creating **UI/UX flows for client projects**, ensuring intuitive design and smooth user experience
+- Developed multiple projects using **React.js & Next.js** to enhance web applications
+- Collaborating closely with teams to **improve frontend performance and accessibility**
 
 📚 **Currently Learning:**
 
-- **AWS Solutions Architect** (Expanding my cloud expertise ☁)
-- **Java Backend Development** (Diving deeper into APIs & microservices)
-- **Advanced Flutter & React Native** (For cross-platform mobile apps 📱)
+- **System Design** (Architecting scalable applications)
+- **Azure Fundamentals Certification** (Strengthening cloud expertise ☁)
+- **Hosting & Deployment** (Evaluating platforms for commercial applications)
+- **Flutter** (Building mobile applications 📱)
+- **Data Structures & Algorithms** (Practicing consistently on **LeetCode**)
 
 🔗 **Connect With Me:**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hrishikesh-upadhyaya)  
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hrku)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hrishikesh-upadhyaya) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chinum.upadhyaya@gmail.com) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@hrishikeshupadhyaya7229)
+
+ <!-- [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](your-leetcode-profile-url) [![Resume](https://img.shields.io/badge/Resume-%23000000.svg?style=for-the-badge&logo=read-the-docs&logoColor=white)](your-resume-link) -->
 
 ---
 
@@ -53,7 +56,7 @@
 
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=hrku&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=hrku&theme=dark&no-frame=true&no-bg=true&margin-w=4)
 
 ---
 
