@@ -1,8 +1,6 @@
 <div align="center" >
 
-# 🚀 Welcome to My GitHub!
-
-## Hi, I'm Hrishikesh Upadhyaya 👋
+# Hi, I'm Hrishikesh Upadhyaya 👋
 
 ## 💻 **Full Stack Developer | React & Next.js Specialist | UI/UX Enthusiast**
 
