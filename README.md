@@ -1,10 +1,35 @@
-# 💫 About Me:
+# 🚀 Welcome to My GitHub!
 
-Hi, I'm Hrishikesh a Software developer with exposure to Full Stack Tech. Actively exploring cloud technologies. Along with hands on experience as a figma designer<br>
+### Hi, I'm Hrishikesh Upadhyaya 👋
 
-## 🌐 Socials:
+💻 **Full Stack Developer | React & Next.js Specialist | UI/UX Enthusiast**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/hrishikesh-upadhyaya/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:chinum.upadhyaya@gmail.com)
+🔹 Passionate about **building scalable web applications**, optimizing performance, and creating seamless user experiences.  
+🔹 Currently **exploring AWS, Java backend development, and advanced mobile development with Flutter & React Native**.  
+🔹 A firm believer in **clean code, great design, and continuous learning**.
+
+---
+
+## 🔍 About Me
+
+🚀 **Currently Working As:**
+
+- **Full Stack Software Developer @ Candent Technologies Pvt Ltd**
+- Spearheading **React.js & Next.js** projects for fintech solutions
+- Managing **UI/UX designs using Figma**, collaborating closely with clients
+- Leading a team of developers to ensure **high-quality deliverables**
+
+📚 **Currently Learning:**
+
+- **AWS Solutions Architect** (Expanding my cloud expertise ☁)
+- **Java Backend Development** (Diving deeper into APIs & microservices)
+- **Advanced Flutter & React Native** (For cross-platform mobile apps 📱)
+
+🔗 **Connect With Me:**  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hrishikesh-upadhyaya)  
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hrku)
+
+---
 
 # 💻 Tech Stack:
 
@@ -25,6 +50,10 @@ Hi, I'm Hrishikesh a Software developer with exposure to Full Stack Tech. Active
 </div>
 
 ###
+
+## 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=hrku&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
 ---
 
