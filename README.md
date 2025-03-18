@@ -24,7 +24,7 @@
 - **System Design** (Architecting scalable applications)
 - **Azure Fundamentals Certification** (Strengthening cloud expertise ☁)
 - **Hosting & Deployment** (Evaluating platforms for commercial applications)
-- **Flutter** (Building mobile applications 📱)
+- **Flutter**,**Ionic** (Building mobile applications 📱)
 - **Data Structures & Algorithms** (Practicing consistently on **LeetCode**)
 
 ## 🔗 Connect With Me
