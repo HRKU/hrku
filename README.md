@@ -64,3 +64,8 @@
 ---
 
 [![](https://visitcount.itsvg.in/api?id=hrku&icon=0&color=0)](https://visitcount.itsvg.in)
+
+---
+
+<p align="center">🚀 Built with passion & curiosity | 🌱 Keep Learning, Keep Growing 🚀</p>
+
