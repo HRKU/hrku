@@ -1,31 +1,97 @@
-<div align="center" >
+<div align="center">
 
-# Hi, I'm Hrishikesh Upadhyaya 👋
+# 👋 Hi, I'm **Hrishikesh Upadhyaya**
 
-## 💻 **Full Stack Developer | React & Next.js Specialist | UI/UX Enthusiast**
+## 💻 Software Developer | Full-Stack Problem Solver | GenAI Enthusiast
 
-🔹 Passionate about **building scalable web applications**, optimizing performance, and creating seamless user experiences.  
-🔹 Currently **exploring cloud infrastructure, system design, and deployment strategies for real-world applications**.  
-🔹 A firm believer in **clean code, great design, and continuous learning**.
+
+🚀 I work as a **Software Developer**, but I’ve independently delivered multiple **full-stack, end-to-end products** —  
+from UI/UX design → frontend engineering → backend APIs → database modelling → deployment.
+
+I love building clean, reliable, high-impact applications using **React, Angular, Node.js, MongoDB**, and now extending my skillset into **FastAPI and GenAI**.
+
+My mindset:  ✨ *Solve problems first. Choose the right tools later.*
 
 </div>
 
-## 🔍 About Me
+---
 
-🚀 **Currently Working As:**
 
-- **Full Stack Software Developer @ Candent Technologies Pvt Ltd**
-- Creating **UI/UX flows for client projects**, ensuring intuitive design and smooth user experience
-- Developed multiple projects using **React.js & Next.js** to enhance web applications
-- Collaborating closely with teams to **improve frontend performance and accessibility**
+## 🚀 About Me
 
-📚 **Currently Learning:**
+I am a **Software Developer @ Candent Technologies Pvt Ltd**, specializing in:
 
-- **System Design** (Architecting scalable applications)
-- **Azure Fundamentals Certification** (Strengthening cloud expertise ☁)
-- **Hosting & Deployment** (Evaluating platforms for commercial applications)
-- **Flutter**,**Ionic** (Building mobile applications 📱)
-- **Data Structures & Algorithms** (Practicing consistently on **LeetCode**)
+- Developing scalable, production-ready **React & Angular applications**
+- Building and integrating **secure backend APIs**  
+- Managing the entire lifecycle of features: **design → development → testing → deployment**
+- Working end-to-end on full-stack projects with **Node.js + MongoDB/Firebase**
+- Creating intuitive **UI/UX flows** for real client projects
+
+I enjoy bringing structure, clarity, and great user experience into engineering.
+
+---
+
+## 🧠 Current Focus Areas
+
+### 🔥 **GenAI & LLM Projects**
+- Building **AI Meeting Summarizer** (Transcription + Embeddings + RAG)  
+- Creating **AI Scrum Assistant Bot** using **Microsoft Phi-3** + Node server  
+- Experimenting with **local LLMs**, embeddings, vector DBs, and retrieval accuracy
+
+### 🧩 **Tech I'm Sharpening**
+- **System Design** for scalable apps  
+- **FastAPI** + NoSQL (MongoDB, Firebase)  
+- **Cloud & Deployment** → Vercel, Render, Netlify, Azure  
+- **DSA on LeetCode** (Consistency > intensity)  
+- **Flutter & Ionic** for mobile apps  
+
+---
+## 🛠️ Tech Stack
+ <table width="100%" style="border-collapse: collapse;"> <tr> <!-- Frontend --> <td width="33%" align="center" style="padding:20px; border:1px solid #30363d; border-radius:10px;"> <h3><strong>Frontend</strong></h3> <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB"><br> <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs"><br> <img src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white"><br> <img src="https://img.shields.io/badge/TailwindCSS-38bdf8?logo=tailwindcss&logoColor=white"><br> <img src="https://img.shields.io/badge/Redux-593D88?logo=redux&logoColor=white"><br> <img src="https://img.shields.io/badge/Chart.js-F5788D?logo=chart.js&logoColor=white"><br> </td>
+<!-- Backend -->
+<td width="33%" align="center" style="padding:20px; border:1px solid #30363d; border-radius:10px;">
+  <h3><strong>Backend</strong></h3>
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white"><br>
+  <img src="https://img.shields.io/badge/Express.js-404d59?logo=express"><br>
+  <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white"><br>
+  <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white"><br>
+  <img src="https://img.shields.io/badge/REST%20APIs-005571"><br>
+  <img src="https://img.shields.io/badge/WebSockets-1E90FF"><br>
+</td>
+
+<!-- Databases -->
+<td width="33%" align="center" style="padding:20px; border:1px solid #30363d; border-radius:10px;">
+  <h3><strong>Databases</strong></h3>
+  <img src="https://img.shields.io/badge/MongoDB-4ea94b?logo=mongodb&logoColor=white"><br>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase"><br>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white"><br>
+  <img src="https://img.shields.io/badge/FAISS-000000"><br>
+  <img src="https://img.shields.io/badge/Chroma-3DDC84?logoColor=white"><br>
+</td>
+</tr> <tr> <!-- DevOps --> <td width="33%" align="center" style="padding:20px; border:1px solid #30363d; border-radius:10px;"> <h3><strong>DevOps & Deployment</strong></h3> <img src="https://img.shields.io/badge/Vercel-000000?logo=vercel"><br> <img src="https://img.shields.io/badge/Render-46E3B7"><br> <img src="https://img.shields.io/badge/Netlify-00C7B7?logo=netlify&logoColor=white"><br> <img src="https://img.shields.io/badge/Firebase%20Hosting-FFCA28?logo=firebase"><br> <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=github-actions&logoColor=white"><br> </td>
+<!-- GenAI -->
+<td width="33%" align="center" style="padding:20px; border:1px solid #30363d; border-radius:10px;">
+  <h3><strong>GenAI</strong></h3>
+  <img src="https://img.shields.io/badge/LLMs-000000"><br>
+  <img src="https://img.shields.io/badge/RAG-444444"><br>
+  <img src="https://img.shields.io/badge/Embeddings-5c5c5c"><br>
+  <img src="https://img.shields.io/badge/LangChain-1a73e8?logo=python&logoColor=white"><br>
+  <img src="https://img.shields.io/badge/Phi3-0078D4?logo=microsoft"><br>
+  <img src="https://img.shields.io/badge/Ollama-000000"><br>
+</td>
+
+<!-- Tools -->
+<td width="33%" align="center" style="padding:20px; border:1px solid #30363d; border-radius:10px;">
+  <h3><strong>Tools</strong></h3>
+  <img src="https://img.shields.io/badge/Git-F05033?logo=git&logoColor=white"><br>
+  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white"><br>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"><br>
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?logo=swagger&logoColor=black"><br>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white"><br>
+</td>
+</tr> </table>
+
+---
 
 ## 🔗 Connect With Me
 
@@ -37,31 +103,25 @@
 <a href="https://docs.google.com/document/d/1MU4sYbpO18qFtaazy-YG5JZ-jcmrbN-_/edit?usp=sharing&ouid=107369587735854976213&rtpof=true&sd=true"><img src="https://img.shields.io/badge/Resume-%23000000.svg?style=for-the-badge&logo=read-the-docs&logoColor=white"></a>
 </p>
 
-# 💻 Tech Stack:
+---
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
-
-# 📊 GitHub Stats:
-
-<p align="left"></p>
-
-###
-
-<br clear="both">
+## 📊 GitHub Stats
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=hrku&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hrku&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=hrku&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=hrku&show_icons=true&include_all_commits=true&count_private=true&theme=dracula" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hrku&layout=compact&langs_count=6&theme=dracula" height="150" />
+  <img src="https://streak-stats.demolab.com?user=hrku&theme=dracula" height="150" />
 </div>
-
-###
-
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=hrku&theme=dark&no-frame=true&no-bg=true&margin-w=4)
 
 ---
 
-<p align="center">🚀 Built with passion & curiosity | 🌱 Keep Learning, Keep Growing 🚀</p>
+## 🏆 GitHub Trophies  
+<div align="center">
+  
+![](https://github-profile-trophy.vercel.app/?username=hrku&theme=dark&no-frame=true&no-bg=true&margin-w=4)
 
+</div>
+
+---
+
+<p align="center">🚀 Always building. Always learning. Always improving.</p>
